@@ -1,0 +1,5 @@
+ 对于事件内容：{"placeholder": "text_b"}，判断这是一条关于{"mask"}的评论：{"placeholder": "text_a"}，这条评论的情感倾向可能是友善的或者是恶意的
+ 在笔记{"placeholder": "text_b"}下，这是一个{"mask"} 评论: {"placeholder": "text_a"}
+ 对于{"placeholder": "text_b"}，{"placeholder": "text_a"} 这个评论是 {"mask"} .
+ 关于事件{"placeholder": "text_b"}的评论 {"placeholder": "text_a"} 的类别是 {"mask"}.
+ [ 评论类别 : {"mask"} ] 评论：{"placeholder": "text_a"}，事件内容：{"placeholder": "text_b"}

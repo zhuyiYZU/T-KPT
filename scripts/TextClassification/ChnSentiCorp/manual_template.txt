@@ -1,0 +1,1 @@
+{"placeholder": "text_a"}，这条关于酒店的评论的情感倾向是{"mask"}
